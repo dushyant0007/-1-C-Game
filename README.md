@@ -1,1 +1,1 @@
-# -1-C-Game
+# smpleGame.c
